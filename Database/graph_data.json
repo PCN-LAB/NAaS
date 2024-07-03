@@ -1,0 +1,432 @@
+{
+  "nodes": [
+    {
+      "from": 76,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 74,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 80,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 82,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 8,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 10,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 12,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 78,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 84,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 18,
+      "label": "",
+      "to": 19,
+      "category": "keyword"
+    },
+    {
+      "from": 74,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 76,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 24,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 73,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 28,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 71,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 78,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 80,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 82,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 84,
+      "label": "",
+      "to": 39,
+      "category": "frequency"
+    },
+    {
+      "from": 71,
+      "label": "",
+      "to": 53,
+      "category": "related"
+    },
+    {
+      "from": 56,
+      "label": "",
+      "to": 53,
+      "category": "related"
+    },
+    {
+      "from": 57,
+      "label": "",
+      "to": 53,
+      "category": "related"
+    },
+    {
+      "from": 46,
+      "label": "",
+      "to": 47,
+      "category": "related"
+    },
+    {
+      "from": 61,
+      "label": "",
+      "to": 53,
+      "category": "related"
+    },
+    {
+      "from": 73,
+      "label": "",
+      "to": 53,
+      "category": "related"
+    },
+    {
+      "from": 72,
+      "label": "",
+      "to": 53,
+      "category": "related"
+    },
+    {
+      "from": 57,
+      "label": "",
+      "to": 56,
+      "category": "related"
+    },
+    {
+      "from": 56,
+      "label": "",
+      "to": 57,
+      "category": "related"
+    },
+    {
+      "from": 61,
+      "label": "",
+      "to": 71,
+      "category": "related"
+    },
+    {
+      "from": 71,
+      "label": "",
+      "to": 61,
+      "category": "related"
+    },
+    {
+      "from": 71,
+      "label": "",
+      "to": 73,
+      "category": "related"
+    },
+    {
+      "from": 71,
+      "label": "",
+      "to": 72,
+      "category": "related"
+    },
+    {
+      "from": 73,
+      "label": "",
+      "to": 71,
+      "category": "related"
+    },
+    {
+      "from": 73,
+      "label": "",
+      "to": 72,
+      "category": "related"
+    },
+    {
+      "from": 72,
+      "label": "",
+      "to": 71,
+      "category": "related"
+    },
+    {
+      "from": 72,
+      "label": "",
+      "to": 73,
+      "category": "related"
+    },
+    {
+      "from": 74,
+      "label": "",
+      "to": 85,
+      "category": "frequency"
+    },
+    {
+      "from": 76,
+      "label": "",
+      "to": 85,
+      "category": "frequency"
+    },
+    {
+      "from": 78,
+      "label": "",
+      "to": 85,
+      "category": "frequency"
+    },
+    {
+      "from": 80,
+      "label": "",
+      "to": 85,
+      "category": "frequency"
+    },
+    {
+      "from": 82,
+      "label": "",
+      "to": 85,
+      "category": "frequency"
+    },
+    {
+      "from": 84,
+      "label": "",
+      "to": 85,
+      "category": "frequency"
+    }
+  ],
+  "edges": [
+    {
+      "id": 76,
+      "label": "tax",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 19,
+      "label": "keyword",
+      "category": "keyword",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 74,
+      "label": "sales",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 80,
+      "label": "need",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 82,
+      "label": "standardising",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 8,
+      "label": "Revenue",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 10,
+      "label": "Authority",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 12,
+      "label": "policies",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 78,
+      "label": "emphasised",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 84,
+      "label": "rates",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 18,
+      "label": "Pakistan",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 39,
+      "label": "frequency",
+      "category": "frequency",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 24,
+      "label": "addition",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 73,
+      "label": "FBR",
+      "category": "other",
+      "ner": "ORG",
+      "value": "ORG"
+    },
+    {
+      "id": 28,
+      "label": "reforms",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 71,
+      "label": "OICCI",
+      "category": "other",
+      "ner": "ORG",
+      "value": "ORG"
+    },
+    {
+      "id": 53,
+      "label": "Organization",
+      "category": "Organization",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 56,
+      "label": "KARACHI",
+      "category": "other",
+      "ner": "ORG",
+      "value": "ORG"
+    },
+    {
+      "id": 57,
+      "label": "The Overseas Investors Chamber of Commerce and Industry",
+      "category": "other",
+      "ner": "ORG",
+      "value": "ORG"
+    },
+    {
+      "id": 46,
+      "label": "Muhammad Aurangzeb",
+      "category": "other",
+      "ner": "PERSON",
+      "value": "PERSON"
+    },
+    {
+      "id": 47,
+      "label": "Person",
+      "category": "other",
+      "ner": null,
+      "value": 0
+    },
+    {
+      "id": 61,
+      "label": "the Federal Board of Revenue",
+      "category": "other",
+      "ner": "ORG",
+      "value": "ORG"
+    },
+    {
+      "id": 72,
+      "label": "the \u201cPakistan Revenue Authority",
+      "category": "other",
+      "ner": "ORG",
+      "value": "ORG"
+    },
+    {
+      "id": 85,
+      "label": "related",
+      "category": "related",
+      "ner": null,
+      "value": 0
+    }
+  ]
+}
